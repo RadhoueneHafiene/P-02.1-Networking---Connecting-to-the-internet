@@ -1,10 +1,7 @@
 # P-02.1-Networking---Connecting-to-the-internet
 # 7. Task 6: Missing Permission
 
-Comment out the
-<uses-permission android:name="android.permission.INTERNET" /> 
-             
-statement in the AndroidManifest.xml and then run the app. Make a search in the app, and then look in the Android Monitor logcat.
+Comment out the statement in the AndroidManifest.xml ( the Internet permission) and then run the app. Make a search in the app, and then look in the Android Monitor logcat.
 
 QUESTION
 
